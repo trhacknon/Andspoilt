@@ -5,18 +5,18 @@
 Run interactive android exploits in linux by giving the users easy interface to exploit android devices
 Uses an intergration with Metaspoilt Framework by giving the user an easy interface to create payloads and launch android exploits.
 
-![alt text](https://github.com/pythonofhades/Andspoilt/blob/master/src/andy.png)
+![alt text](https://github.com/trhacknon/Andspoilt/blob/master/src/andy.png)
 
 Current Additional feature is a simple web server for file distribution
 
 Installing
 =====
 
-![alt text](https://github.com/pythonofhades/Andspoilt/blob/master/src/install1.jpg)
+![alt text](https://github.com/trhacknon/Andspoilt/blob/master/src/install1.jpg)
 
 Run the terminal as root type:
 
-`git clone https://github.com/sundaysec/Andspoilt.git`
+`git clone https://github.com/trhacknon/Andspoilt.git`
 
 `cd /Andspoilt`
 
